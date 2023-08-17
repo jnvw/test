@@ -1,6 +1,0 @@
-{{#user}
-Name: Sumedh Bhagat
-Skills: HTML, CSS, JS, Reactjs,python ,Tailwindcss,java,c++
-Email: sumedhbhagat05@gmail.com
-{{/user}}
-
